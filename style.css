@@ -72,6 +72,12 @@ nav ul .ctn a:hover {
   text-decoration: none;
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+  background-color: rgba(66, 65, 65, 0.9);
+}
+
 /* ------------- Responsiveness for Navbar------------------- */
 @media (max-width: 850px) {
   .navbar {
