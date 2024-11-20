@@ -337,7 +337,7 @@ footer {
 footer p {
   color: whitesmoke;
   margin: 20px auto;
-  padding: 20px auto;
+  padding: 20px 20px;
 }
 
 /* ---------------------------- */
